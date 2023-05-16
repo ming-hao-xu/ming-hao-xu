@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minghao Xu</h1>
-<h3 align="center">A Deep Learning (CV/NLP) enthusiast and an undergraduate student at Ritsumeikan University.</h3>
+<h3 align="center">Diving deep into data lakes and coral reefs -- a deep learning engineer and an open water diver 🤿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xu-minghao317&label=Profile%20views&color=0e75b6&style=flat" alt="xu-minghao317" /> </p>
 
