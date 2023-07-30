@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an image-synthesis paper**
 
-- 🌱 I’m currently learning **prompt-engineering**
+- 🌱 I’m currently learning **latent diffusion models**
 
 - 📫 Reach me at **peace-ducted.0z@icloud.com**
 
