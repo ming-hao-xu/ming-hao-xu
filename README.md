@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ming-Hao Xu</h1>
 <h3 align="center">Diving deep into data lakes and coral reefs -- a deep learning engineer and an open water diver 🤿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xu-minghao317&label=Profile%20views&color=0e75b6&style=flat" alt="xu-minghao317" /> </p>
-
 - 🔭 I’m currently working on **an image-synthesis paper**
 
 - 🌱 I’m currently learning **latent diffusion models**
