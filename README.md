@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **[diffusers 🧨](https://github.com/huggingface/diffusers)**
 
+- 📜 Explore my code snippets and ideas in **[Gist](https://gist.github.com/xu-minghao317)**
+
 - 📫 Reach me at **peace-ducted.0z@icloud.com**
 
 - 🔐 GPG signature hash:
