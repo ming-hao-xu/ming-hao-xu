@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **an image-synthesis paper**
 
-- 🌱 I’m currently learning **[diffusers 🧨](https://github.com/huggingface/diffusers)**
-
 - 📜 Explore my code snippets and ideas in **[Gist](https://gist.github.com/xu-minghao317)**
 
 - 📫 Reach me at **peace-ducted.0z@icloud.com**
 
-- 🔐 GPG signature hash:
+- 🔐 GPG Key IDs for signing commits:
   - CE3E58885D9C10AF (carry-on)
   - 7330C1A308E26864 (at-home)
 
@@ -31,7 +29,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
