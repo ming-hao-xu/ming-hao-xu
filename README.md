@@ -9,7 +9,9 @@
 
 - 🔐 GPG Key IDs for signing commits:
   - CE3E58885D9C10AF (carry-on)
+    - keyserver: hkps://keys.openpgp.org
   - 7330C1A308E26864 (at-home)
+    - keyserver: hkps://keys.openpgp.org
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xu-minghao317/xu-minghao317/output/github-contribution-grid-snake-dark.svg" />
