@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run at midnight every day
+  # run at midnight JST (00:00 JST == 15:00 UTC)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 15 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
