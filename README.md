@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minghao Xu</h1>
-<h3 align="center">Master's student (AI, Univ. of Tokyo) & Incoming full-stack engineer</h3>
+<h3 align="center">Master's Student in AI @The University of Tokyo & Incoming Software Engineer @freee</h3>
 
 - 🔭 Currently researching **image synthesis for autonomous driving**
 
