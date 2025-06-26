@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h4 align="left">Web Dev:</h4>
+<h4 align="left">Web Development:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<h4 align="left">ML & Data:</h4>
+<h4 align="left">Machine Learning & Data Science:</h4>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-<h4 align="left">Dev Ops:</h4>
+<h4 align="left">DevOps:</h4>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
