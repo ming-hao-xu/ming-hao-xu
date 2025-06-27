@@ -6,6 +6,8 @@
 
 - 🔭 Currently researching **image synthesis for autonomous driving**
 
+- 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
+
 - 📜 Code snippets live in [**Gists**](https://gist.github.com/ming-hao-xu)
 
 - 📫 Reach me at **peace-ducted.0z [at] icloud.com** or [**LinkedIn**](https://linkedin.com/in/ming-hao-xu)
