@@ -7,9 +7,9 @@
 
 - 📫 Reach me at **peace-ducted.0z@icloud.com** or [**LinkedIn**](https://linkedin.com/in/ming-hao-xu)
 
-- 🔐 GPG Key IDs for signing commits (hkps://keys.openpgp.org):
-  - CE3E58885D9C10AF (carry-on)
-  - 7330C1A308E26864 (at-home)
+- 🔐 GPG Key IDs for signing commits:
+  - 09D60BDAEA3B8634 (carry-on)
+  - A59F54B8ED0C57D7 (at-home)
 
 <h3 align="left">Skills:</h3>
 
