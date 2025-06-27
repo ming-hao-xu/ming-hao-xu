@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Minghao Xu</h1>
-<h3 align="left">Master's Student in AI @The University of Tokyo<br>Incoming Software Engineer @freee</h3>
+<h3>Master's Student in AI @ The University of Tokyo<br>Incoming Software Engineer @ freee</h3>
 
 - 🔭 Currently researching **image synthesis for autonomous driving**
 
@@ -11,7 +11,7 @@
   - 09D60BDAEA3B8634 (carry-on)
   - A59F54B8ED0C57D7 (at-home)
 
-<h4 align="left">Languages:</h4>
+<h4>Languages:</h4>
 <a href="https://skillicons.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex&theme=dark" />
@@ -20,7 +20,7 @@
   </picture>
 </a>
 
-<h4 align="left">Web & Mobile Development:</h4>
+<h4>Web & Mobile Development:</h4>
 <a href="https://skillicons.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Cswift&theme=dark" />
@@ -29,7 +29,7 @@
   </picture>
 </a>
 
-<h4 align="left">Deep Learning:</h4>
+<h4>Deep Learning:</h4>
 <a href="https://skillicons.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Copencv&theme=dark" />
@@ -38,7 +38,7 @@
   </picture>
 </a>
 
-<h4 align="left">DevOps & Infrastructure:</h4>
+<h4>DevOps & Infrastructure:</h4>
 <a href="https://skillicons.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&theme=dark" />
