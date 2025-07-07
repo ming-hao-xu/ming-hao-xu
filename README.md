@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Minghao Xu (徐 銘浩)
 
-**Master's Student in AI @ The University of Tokyo**
-
-**Incoming Software Engineer @ freee**
+**Master's Student in AI @ The University of Tokyo | Incoming Software Engineer @ freee**
 
 - 🔭 Currently researching **image synthesis for autonomous driving**
 
