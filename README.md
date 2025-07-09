@@ -28,9 +28,9 @@
 ### Web & Mobile Development
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin%2Cswift&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin%2Cswift&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin%2Cswift&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Kotlin, Swift" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Kotlin" />
   </picture>
 </a>
 
