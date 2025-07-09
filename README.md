@@ -19,18 +19,18 @@
 ### Languages
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex&theme=light" alt="Python, Bash, JavaScript, TypeScript, LaTeX" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=light" alt="Python, Bash, JavaScript, TypeScript, LaTeX, Kotlin" />
   </picture>
 </a>
 
 ### Web & Mobile Development
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Ckotlin&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Kotlin" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Android Studio" />
   </picture>
 </a>
 
