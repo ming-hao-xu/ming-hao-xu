@@ -4,13 +4,13 @@
 
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
-- 📜 Code snippets live in [**Gists**](https://gist.github.com/ming-hao-xu)
+- 📜 Code snippets live in [**Gists**][gists]
 
 - 🔐 GPG Key IDs for signing commits:
   - 09D60BDAEA3B8634 (carry-on)
   - A59F54B8ED0C57D7 (at-home)
 
-- 📫 Reach me at [**peace-ducted.0z@icloud.com**](mailto:peace-ducted.0z@icloud.com) or [**LinkedIn**](https://linkedin.com/in/xu-minghao)
+- 📫 Reach me at [**peace-ducted.0z@icloud.com**][email] or [**LinkedIn**][linkedin]
 
 ---
 
@@ -41,3 +41,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&theme=light" />
   <img src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgit%2Clinux&theme=light" alt="AWS, GCP, Docker, Git, Linux" />
 </picture>
+
+[gists]: https://gist.github.com/ming-hao-xu
+[email]: mailto:peace-ducted.0z@icloud.com
+[linkedin]: https://linkedin.com/in/xu-minghao
