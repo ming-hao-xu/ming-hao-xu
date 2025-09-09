@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Minghao Xu (徐 銘浩)
 
-**Master's Student in AI @ The University of Tokyo**
-
-- 🔭 Currently researching **image synthesis for autonomous driving**
+**Software Engineer Intern @ freee | M.S. Student @ The University of Tokyo**
 
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
 - 📜 Code snippets live in [**Gists**](https://gist.github.com/ming-hao-xu)
 
-- 📫 Reach me at **peace-ducted.0z [at] icloud.com** or [**LinkedIn**](https://linkedin.com/in/ming-hao-xu)
-
 - 🔐 GPG Key IDs for signing commits:
   - 09D60BDAEA3B8634 (carry-on)
   - A59F54B8ED0C57D7 (at-home)
+
+- 📫 Reach me at **peace-ducted.0z [at] icloud.com** or [**LinkedIn**](https://linkedin.com/in/ming-hao-xu)
 
 ---
 
