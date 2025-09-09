@@ -10,7 +10,7 @@
   - 09D60BDAEA3B8634 (carry-on)
   - A59F54B8ED0C57D7 (at-home)
 
-- 📫 Reach me at **peace-ducted.0z [at] icloud.com** or [**LinkedIn**](https://linkedin.com/in/ming-hao-xu)
+- 📫 Reach me at [**peace-ducted.0z@icloud.com**](mailto:peace-ducted.0z@icloud.com) or [**LinkedIn**](https://linkedin.com/in/xu-minghao)
 
 ---
 
