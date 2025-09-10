@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minghao Xu (徐 銘浩)
 
-**Software Engineer Intern @ freee | M.S. Student @ The University of Tokyo**
+**Software Engineer Intern @ freee | M.A.S. (Information Studies) candidate @ The University of Tokyo**
 
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
