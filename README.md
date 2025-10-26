@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minghao Xu (徐 銘浩)
+# 👋 Hi, I'm Minghao Xu (みんみん)
 
 **Software Engineer Intern @ freee | M.A.S. (Information Studies) candidate @ The University of Tokyo**
 
