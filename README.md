@@ -16,9 +16,9 @@
 
 ### Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Clatex%2Ckotlin&theme=light" alt="Python, Bash, JavaScript, TypeScript, LaTeX, Kotlin" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&theme=light" alt="Python, Bash, JavaScript, TypeScript, Kotlin" />
 </picture>
 
 ### Web & Mobile Development
@@ -28,12 +28,13 @@
   <img height="50" src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Android Studio" />
 </picture>
 
-### Deep Learning
+<!-- Previous Skills: -->
+<!-- ### Deep Learning
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Copencv&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch%2Copencv&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=pytorch%2Copencv&theme=light" alt="PyTorch, OpenCV" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" />
+</picture> -->
 
 ### DevOps & Infrastructure
 <picture>
