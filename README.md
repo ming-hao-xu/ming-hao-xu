@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Minghao Xu (みんみん)
 
-**Software Engineer Intern @ freee | M.A.S. (Information Studies) candidate @ The University of Tokyo**
-
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
 - 📜 Code snippets live in [**Gists**][gists]
@@ -27,14 +25,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=light" />
   <img height="50" src="https://skillicons.dev/icons?i=html%2Ccss%2Ctailwind%2Creact%2Cnodejs%2Cexpress%2Candroidstudio&theme=light" alt="HTML, CSS, Tailwind, React, Node.js, Express, Android Studio" />
 </picture>
-
-<!-- Previous Skills: -->
-<!-- ### Deep Learning
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" />
-</picture> -->
 
 ### DevOps & Infrastructure
 <picture>
