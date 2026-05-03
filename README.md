@@ -2,17 +2,17 @@
 
 - 🗣️ Speak `en` (business), `ja` (business), `zh` (native)
 
-- 📜 Code snippets live in [**Gists**][gists]
+- 📜 Code snippets live in [Gists][gists]
 
 - 🔐 GPG Key IDs for signing commits:
   - 09D60BDAEA3B8634 (carry-on)
   - A59F54B8ED0C57D7 (at-home)
 
-- 📫 Reach me at [**peace-ducted.0z@icloud.com**][email] or [**LinkedIn**][linkedin]
+- 📫 Reach me at [peace-ducted.0z@icloud.com][email] or [LinkedIn][linkedin]
 
----
+## Skills
 
-### Languages
+### Programming Languages
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cbash%2Cjs%2Cts%2Ckotlin&theme=light" />
