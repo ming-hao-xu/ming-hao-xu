@@ -12,16 +12,16 @@
 
 ### Languages
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy%2Cbash&amp;theme=light" alt="Go, Ruby, TypeScript, Python, Bash" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=go%2Cruby%2Cts%2Cpy&amp;theme=light" alt="Go, Ruby, TypeScript, Python" />
 </picture>
 
-### Backend & Frontend
+### Frameworks
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=rails%2Creact%2Cvite&amp;theme=light" alt="Ruby on Rails, React, Vite" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cpytorch&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rails%2Creact%2Cpytorch&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=rails%2Creact%2Cpytorch&amp;theme=light" alt="Ruby on Rails, React, PyTorch" />
 </picture>
 
 ### Data & Search
@@ -33,9 +33,9 @@
 
 ### Infrastructure & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cgcp%2Cgithubactions&amp;theme=light" alt="Kubernetes, Docker, AWS, Google Cloud, GitHub Actions" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cterraform%2Cgithubactions&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cterraform%2Cgithubactions&amp;theme=light" />
+  <img height="50" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Cterraform%2Cgithubactions&amp;theme=light" alt="Kubernetes, Docker, AWS, Terraform, GitHub Actions" />
 </picture>
 
 [freee]: https://corp.freee.co.jp/en/
